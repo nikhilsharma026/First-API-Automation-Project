@@ -10,6 +10,7 @@ public class Random {
 		j=i++;
 		j=i++;
 		System.out.println(j);
+		System.out.println(i);
 		
 	}
 
