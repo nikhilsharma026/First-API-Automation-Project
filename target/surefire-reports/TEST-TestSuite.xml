@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestSuite" time="4.218" tests="2" errors="0" skipped="0" failures="1">
+<testsuite name="TestSuite" time="6.167" tests="2" errors="0" skipped="0" failures="1">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\bin"/>
     <property name="java.vm.version" value="25.121-b13"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Nikhil Sharma\Documents\Workspace\apiAutomation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Users\Nikhil Sharma\git\First-API-Automation-Project-Test\apiAutomation"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\Users\Nikhil Sharma\Documents\Workspace\apiAutomation"/>
+    <property name="user.dir" value="C:\Users\Nikhil Sharma\git\First-API-Automation-Project-Test\apiAutomation"/>
     <property name="java.runtime.version" value="1.8.0_121-b13"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\endorsed"/>
@@ -26,9 +26,9 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
     <property name="os.name" value="Windows 10"/>
-    <property name="classworlds.conf" value="C:\Users\Nikhil Sharma\Desktop\apache-maven-3.3.3\bin\m2.conf"/>
+    <property name="classworlds.conf" value="C:\Users\Nikhil Sharma\Documents\Workspace\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf1507126160774093277.tmp"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Android;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Python27;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Users\Nikhil Sharma\Desktop\apache-maven-3.3.3\bin;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\Nikhil Sharma\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_121\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_121\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jre1.8.0_144/bin/server;C:/Program Files/Java/jre1.8.0_144/bin;C:/Program Files/Java/jre1.8.0_144/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Android;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Python27;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_121\bin;C:\Users\Nikhil Sharma\Desktop\apache-maven-3.3.3\bin;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%SYSTEMROOT%\System32\OpenSSH\;C:\Users\Nikhil Sharma\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk1.8.0_121\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;;C:\Users\Nikhil Sharma\Documents\eclipse;;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -39,11 +39,11 @@
     <property name="java.specification.version" value="1.8"/>
     <property name="file.encoding" value="Cp1252"/>
     <property name="user.name" value="Nikhil Sharma"/>
-    <property name="java.class.path" value="C:\Users\Nikhil Sharma\Desktop\apache-maven-3.3.3\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.class.path" value="C:\Users\Nikhil Sharma\Documents\eclipse\plugins\org.eclipse.m2e.maven.runtime_1.8.3.20180227-2135\jars\plexus-classworlds-2.5.2.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_121\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B test"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -52,7 +52,7 @@
     <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_121\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_121\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_121\jre\classes"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="C:\Users\Nikhil Sharma\Desktop\apache-maven-3.3.3"/>
+    <property name="maven.home" value="C:\Users\Nikhil Sharma\git\First-API-Automation-Project-Test\apiAutomation\EMBEDDED"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -60,8 +60,8 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="getAPI" classname="com.testcases.GetAPI" time="3.402"/>
-  <testcase name="PostAPI" classname="com.testcases.PostTest" time="0.816">
+  <testcase name="getAPI" classname="com.testcases.GetAPI" time="5.237"/>
+  <testcase name="PostAPI" classname="com.testcases.PostTest" time="0.93">
     <failure message="expected [true] but found [false]" type="java.lang.AssertionError">java.lang.AssertionError: expected [true] but found [false]
 	at org.testng.Assert.fail(Assert.java:96)
 	at org.testng.Assert.failNotEquals(Assert.java:776)
@@ -69,104 +69,76 @@
 	at org.testng.Assert.assertTrue(Assert.java:54)
 	at com.testcases.PostTest.PostAPI(PostTest.java:77)
 </failure>
-    <system-out><![CDATA[29-11-2019 21:18:32 GetAPI.java WARN  [main] EmployeetestAPI 82 - Get Api Test cases completed
-29-11-2019 21:18:32 BasicClientConnectionManager.java DEBUG [main] conn.BasicClientConnectionManager 164 - Get connection for route {}->http://dummy.restapiexample.com:80
-29-11-2019 21:18:32 DefaultClientConnectionOperator.java DEBUG [main] conn.DefaultClientConnectionOperator 176 - Connecting to dummy.restapiexample.com:80
-29-11-2019 21:18:32 RequestAddCookies.java DEBUG [main] protocol.RequestAddCookies 122 - CookieSpec selected: ignoreCookies
-29-11-2019 21:18:32 RequestAuthCache.java DEBUG [main] protocol.RequestAuthCache 76 - Auth cache not set in the context
-29-11-2019 21:18:32 RequestTargetAuthentication.java DEBUG [main] protocol.RequestTargetAuthentication 79 - Target auth state: UNCHALLENGED
-29-11-2019 21:18:32 RequestProxyAuthentication.java DEBUG [main] protocol.RequestProxyAuthentication 88 - Proxy auth state: UNCHALLENGED
-29-11-2019 21:18:32 DefaultRequestDirector.java DEBUG [main] client.DefaultHttpClient 684 - Attempt 1 to execute request
-29-11-2019 21:18:32 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 276 - Sending request: POST /api/v1/create HTTP/1.1
-29-11-2019 21:18:32 Wire.java DEBUG [main] http.wire 72 -  >> "POST /api/v1/create HTTP/1.1[\r][\n]"
-29-11-2019 21:18:32 Wire.java DEBUG [main] http.wire 72 -  >> "Accept: */*[\r][\n]"
-29-11-2019 21:18:32 Wire.java DEBUG [main] http.wire 72 -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
-29-11-2019 21:18:32 Wire.java DEBUG [main] http.wire 72 -  >> "Content-Length: 42[\r][\n]"
-29-11-2019 21:18:32 Wire.java DEBUG [main] http.wire 72 -  >> "Host: dummy.restapiexample.com[\r][\n]"
-29-11-2019 21:18:32 Wire.java DEBUG [main] http.wire 72 -  >> "Connection: Keep-Alive[\r][\n]"
-29-11-2019 21:18:32 Wire.java DEBUG [main] http.wire 72 -  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_121)[\r][\n]"
-29-11-2019 21:18:32 Wire.java DEBUG [main] http.wire 72 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
-29-11-2019 21:18:32 Wire.java DEBUG [main] http.wire 72 -  >> "[\r][\n]"
-29-11-2019 21:18:32 DefaultClientConnection.java DEBUG [main] http.headers 280 - >> POST /api/v1/create HTTP/1.1
-29-11-2019 21:18:32 DefaultClientConnection.java DEBUG [main] http.headers 283 - >> Accept: */*
-29-11-2019 21:18:32 DefaultClientConnection.java DEBUG [main] http.headers 283 - >> Content-Type: application/json; charset=UTF-8
-29-11-2019 21:18:32 DefaultClientConnection.java DEBUG [main] http.headers 283 - >> Content-Length: 42
-29-11-2019 21:18:32 DefaultClientConnection.java DEBUG [main] http.headers 283 - >> Host: dummy.restapiexample.com
-29-11-2019 21:18:32 DefaultClientConnection.java DEBUG [main] http.headers 283 - >> Connection: Keep-Alive
-29-11-2019 21:18:32 DefaultClientConnection.java DEBUG [main] http.headers 283 - >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_121)
-29-11-2019 21:18:32 DefaultClientConnection.java DEBUG [main] http.headers 283 - >> Accept-Encoding: gzip,deflate
-29-11-2019 21:18:32 Wire.java DEBUG [main] http.wire 86 -  >> "{"name":"gfhgdfh","salary":23445,"age":45}"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "HTTP/1.1 200 OK[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Accept-Ranges: bytes[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Access-Control-Allow-Origin: *[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Access-Control-Expose-Headers: Content-Type, X-Requested-With, X-authentication, X-client[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Age: 0[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Cache-Control: no-store, no-cache, must-revalidate[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Content-Type: text/html; charset=UTF-8[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Date: Fri, 29 Nov 2019 15:48:34 GMT[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Expires: Thu, 19 Nov 1981 08:52:00 GMT[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Pagespeed: off[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Pragma: no-cache[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Referrer-Policy: [\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Response: 200[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Server: nginx/1.16.0[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Set-Cookie: PHPSESSID=4d62f100a5c813b081f109c9dd6b965d; path=/[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Set-Cookie: ezoadgid_133674=-1; Path=/; Domain=restapiexample.com; Expires=Fri, 29 Nov 2019 16:18:34 UTC[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Set-Cookie: ezoref_133674=; Path=/; Domain=restapiexample.com; Expires=Fri, 29 Nov 2019 17:48:34 UTC[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Set-Cookie: ezoab_133674=mod88-c; Path=/; Domain=restapiexample.com; Expires=Fri, 29 Nov 2019 17:48:34 UTC[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Set-Cookie: active_template::133674=pub_site.1575042514; Path=/; Domain=restapiexample.com; Expires=Sun, 01 Dec 2019 15:48:34 UTC[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Set-Cookie: ezCMPCCS=true; Path=/; Domain=restapiexample.com; Expires=Sun, 29 Nov 2020 15:48:34 GMT[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Vary: Accept-Encoding,X-APP-JSON[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Via: 1.1 varnish (Varnish/6.0)[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "X-Ezoic-Cdn: Miss[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "X-Middleton-Response: 200[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "X-Shard: 100224202[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "X-Sol: pub_site[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "X-Varnish: 295294292[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "X-Vcache: Miss[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "Content-Length: 129[\r][\n]"
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 72 -  << "[\r][\n]"
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 261 - Receiving response: HTTP/1.1 200 OK
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 264 - << HTTP/1.1 200 OK
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Accept-Ranges: bytes
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Access-Control-Allow-Origin: *
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Access-Control-Expose-Headers: Content-Type, X-Requested-With, X-authentication, X-client
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Age: 0
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Cache-Control: no-store, no-cache, must-revalidate
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Content-Type: text/html; charset=UTF-8
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Date: Fri, 29 Nov 2019 15:48:34 GMT
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Expires: Thu, 19 Nov 1981 08:52:00 GMT
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Pagespeed: off
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Pragma: no-cache
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Referrer-Policy: 
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Response: 200
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Server: nginx/1.16.0
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Set-Cookie: PHPSESSID=4d62f100a5c813b081f109c9dd6b965d; path=/
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Set-Cookie: ezoadgid_133674=-1; Path=/; Domain=restapiexample.com; Expires=Fri, 29 Nov 2019 16:18:34 UTC
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Set-Cookie: ezoref_133674=; Path=/; Domain=restapiexample.com; Expires=Fri, 29 Nov 2019 17:48:34 UTC
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Set-Cookie: ezoab_133674=mod88-c; Path=/; Domain=restapiexample.com; Expires=Fri, 29 Nov 2019 17:48:34 UTC
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Set-Cookie: active_template::133674=pub_site.1575042514; Path=/; Domain=restapiexample.com; Expires=Sun, 01 Dec 2019 15:48:34 UTC
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Set-Cookie: ezCMPCCS=true; Path=/; Domain=restapiexample.com; Expires=Sun, 29 Nov 2020 15:48:34 GMT
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Vary: Accept-Encoding,X-APP-JSON
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Via: 1.1 varnish (Varnish/6.0)
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << X-Ezoic-Cdn: Miss
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << X-Middleton-Response: 200
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << X-Shard: 100224202
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << X-Sol: pub_site
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << X-Varnish: 295294292
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << X-Vcache: Miss
-29-11-2019 21:18:33 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Content-Length: 129
-29-11-2019 21:18:33 DefaultRequestDirector.java DEBUG [main] client.DefaultHttpClient 511 - Connection can be kept alive indefinitely
-29-11-2019 21:18:33 HTTPBuilder.java DEBUG [main] internal.RequestSpecificationImpl$RestAssuredHttpBuilder 544 - Parsing response as: text/html; charset=UTF-8
-29-11-2019 21:18:33 HTTPBuilder.java DEBUG [main] internal.RequestSpecificationImpl$RestAssuredHttpBuilder 547 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
-29-11-2019 21:18:33 PostTest.java INFO  [main] EmployeetestAPI 54 - Printing json***************************************8
-29-11-2019 21:18:33 Wire.java DEBUG [main] http.wire 86 -  << "{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfhgdfh' for key 'employee_name_unique'}}"
-29-11-2019 21:18:33 BasicClientConnectionManager.java DEBUG [main] conn.BasicClientConnectionManager 203 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@15051a0
-29-11-2019 21:18:33 BasicClientConnectionManager.java DEBUG [main] conn.BasicClientConnectionManager 228 - Connection can be kept alive indefinitely
-{"error":{"text":SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'gfhgdfh' for key 'employee_name_unique'}}
+    <system-out><![CDATA[30-11-2019 21:44:38 GetAPI.java WARN  [main] EmployeetestAPI 82 - Get Api Test cases completed
+30-11-2019 21:44:39 BasicClientConnectionManager.java DEBUG [main] conn.BasicClientConnectionManager 164 - Get connection for route {}->http://dummy.restapiexample.com:80
+30-11-2019 21:44:39 DefaultClientConnectionOperator.java DEBUG [main] conn.DefaultClientConnectionOperator 176 - Connecting to dummy.restapiexample.com:80
+30-11-2019 21:44:39 RequestAddCookies.java DEBUG [main] protocol.RequestAddCookies 122 - CookieSpec selected: ignoreCookies
+30-11-2019 21:44:39 RequestAuthCache.java DEBUG [main] protocol.RequestAuthCache 76 - Auth cache not set in the context
+30-11-2019 21:44:39 RequestTargetAuthentication.java DEBUG [main] protocol.RequestTargetAuthentication 79 - Target auth state: UNCHALLENGED
+30-11-2019 21:44:39 RequestProxyAuthentication.java DEBUG [main] protocol.RequestProxyAuthentication 88 - Proxy auth state: UNCHALLENGED
+30-11-2019 21:44:39 DefaultRequestDirector.java DEBUG [main] client.DefaultHttpClient 684 - Attempt 1 to execute request
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 276 - Sending request: POST /api/v1/create HTTP/1.1
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  >> "POST /api/v1/create HTTP/1.1[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  >> "Accept: */*[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  >> "Content-Length: 42[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  >> "Host: dummy.restapiexample.com[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  >> "Connection: Keep-Alive[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  >> "User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_121)[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  >> "[\r][\n]"
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 280 - >> POST /api/v1/create HTTP/1.1
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 283 - >> Accept: */*
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 283 - >> Content-Type: application/json; charset=UTF-8
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 283 - >> Content-Length: 42
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 283 - >> Host: dummy.restapiexample.com
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 283 - >> Connection: Keep-Alive
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 283 - >> User-Agent: Apache-HttpClient/4.5.2 (Java/1.8.0_121)
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 283 - >> Accept-Encoding: gzip,deflate
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 86 -  >> "{"name":"gfhgdfh","salary":23445,"age":45}"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "HTTP/1.1 200 OK[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "Date: Sat, 30 Nov 2019 16:14:40 GMT[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "Server: Apache[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "Expires: Thu, 19 Nov 1981 08:52:00 GMT[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "Cache-Control: no-store, no-cache, must-revalidate[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "Pragma: no-cache[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "Access-Control-Allow-Origin: *[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "Access-Control-Expose-Headers: Content-Type, X-Requested-With, X-authentication, X-client[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "Set-Cookie: PHPSESSID=14187c29d257afaa41931434edbab154; path=/[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "Upgrade: h2,h2c[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "Connection: Upgrade, Keep-Alive[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "Referrer-Policy: [\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "Content-Length: 57[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "Keep-Alive: timeout=5, max=75[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "Content-Type: text/html; charset=UTF-8[\r][\n]"
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 72 -  << "[\r][\n]"
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] conn.DefaultClientConnection 261 - Receiving response: HTTP/1.1 200 OK
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 264 - << HTTP/1.1 200 OK
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Date: Sat, 30 Nov 2019 16:14:40 GMT
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Server: Apache
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Expires: Thu, 19 Nov 1981 08:52:00 GMT
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Cache-Control: no-store, no-cache, must-revalidate
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Pragma: no-cache
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Access-Control-Allow-Origin: *
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Access-Control-Expose-Headers: Content-Type, X-Requested-With, X-authentication, X-client
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Set-Cookie: PHPSESSID=14187c29d257afaa41931434edbab154; path=/
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Upgrade: h2,h2c
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Connection: Upgrade, Keep-Alive
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Referrer-Policy: 
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Content-Length: 57
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Keep-Alive: timeout=5, max=75
+30-11-2019 21:44:39 DefaultClientConnection.java DEBUG [main] http.headers 267 - << Content-Type: text/html; charset=UTF-8
+30-11-2019 21:44:39 DefaultRequestDirector.java DEBUG [main] client.DefaultHttpClient 511 - Connection can be kept alive for 5000 MILLISECONDS
+30-11-2019 21:44:39 HTTPBuilder.java DEBUG [main] internal.RequestSpecificationImpl$RestAssuredHttpBuilder 544 - Parsing response as: text/html; charset=UTF-8
+30-11-2019 21:44:39 HTTPBuilder.java DEBUG [main] internal.RequestSpecificationImpl$RestAssuredHttpBuilder 547 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+30-11-2019 21:44:39 PostTest.java INFO  [main] EmployeetestAPI 54 - Printing json***************************************8
+30-11-2019 21:44:39 Wire.java DEBUG [main] http.wire 86 -  << "{"name":"gfhgdfh","salary":"23445","age":"45","id":"491"}"
+30-11-2019 21:44:39 BasicClientConnectionManager.java DEBUG [main] conn.BasicClientConnectionManager 203 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@7d61eccf
+30-11-2019 21:44:39 BasicClientConnectionManager.java DEBUG [main] conn.BasicClientConnectionManager 228 - Connection can be kept alive for 5000 MILLISECONDS
+{"name":"gfhgdfh","salary":"23445","age":"45","id":"491"}
 200
 HTTP/1.1 200 OK
-794ms
+900ms
 0
 text/html; charset=UTF-8
 ]]></system-out>

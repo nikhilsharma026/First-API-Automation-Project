@@ -2,30 +2,30 @@
 <testng-results skipped="0" failed="1" ignored="0" total="2" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Learning Suite" duration-ms="4512" started-at="2019-11-29T15:48:29Z" finished-at="2019-11-29T15:48:33Z">
+  <suite name="Learning Suite" duration-ms="6557" started-at="2019-11-30T16:14:33Z" finished-at="2019-11-30T16:14:39Z">
     <groups>
     </groups>
-    <test name="First test" duration-ms="4512" started-at="2019-11-29T15:48:29Z" finished-at="2019-11-29T15:48:33Z">
+    <test name="First test" duration-ms="6557" started-at="2019-11-30T16:14:33Z" finished-at="2019-11-30T16:14:39Z">
       <class name="com.testcases.GetAPI">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.GetAPI@58ceff1]" name="setup" is-config="true" duration-ms="50" started-at="2019-11-29T15:48:29Z" finished-at="2019-11-29T15:48:29Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.GetAPI@58ceff1]" name="setup" is-config="true" duration-ms="65" started-at="2019-11-30T16:14:33Z" finished-at="2019-11-30T16:14:33Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="getAPI()[pri:0, instance:com.testcases.GetAPI@58ceff1]" name="getAPI" duration-ms="3401" started-at="2019-11-29T15:48:29Z" finished-at="2019-11-29T15:48:32Z">
+        <test-method status="PASS" signature="getAPI()[pri:0, instance:com.testcases.GetAPI@58ceff1]" name="getAPI" duration-ms="5235" started-at="2019-11-30T16:14:33Z" finished-at="2019-11-30T16:14:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getAPI -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testcases.GetAPI@58ceff1]" name="teardown" is-config="true" duration-ms="1" started-at="2019-11-29T15:48:32Z" finished-at="2019-11-29T15:48:32Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testcases.GetAPI@58ceff1]" name="teardown" is-config="true" duration-ms="1" started-at="2019-11-30T16:14:38Z" finished-at="2019-11-30T16:14:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.testcases.GetAPI -->
       <class name="com.testcases.PostTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.PostTest@7c30a502]" name="setup" is-config="true" duration-ms="2" started-at="2019-11-29T15:48:32Z" finished-at="2019-11-29T15:48:32Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.testcases.PostTest@7c30a502]" name="setup" is-config="true" duration-ms="2" started-at="2019-11-30T16:14:39Z" finished-at="2019-11-30T16:14:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="FAIL" signature="PostAPI()[pri:1, instance:com.testcases.PostTest@7c30a502]" name="PostAPI" duration-ms="810" started-at="2019-11-29T15:48:32Z" finished-at="2019-11-29T15:48:33Z">
+        <test-method status="FAIL" signature="PostAPI()[pri:1, instance:com.testcases.PostTest@7c30a502]" name="PostAPI" duration-ms="922" started-at="2019-11-30T16:14:39Z" finished-at="2019-11-30T16:14:39Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -71,7 +71,7 @@ at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PostAPI -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testcases.PostTest@7c30a502]" name="teardown" is-config="true" duration-ms="1" started-at="2019-11-29T15:48:33Z" finished-at="2019-11-29T15:48:33Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.testcases.PostTest@7c30a502]" name="teardown" is-config="true" duration-ms="1" started-at="2019-11-30T16:14:39Z" finished-at="2019-11-30T16:14:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
